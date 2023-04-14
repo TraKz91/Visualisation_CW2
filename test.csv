@@ -1,0 +1,115 @@
+﻿Segment type;Social Media;Count
+or private school? Private;Facebook;61
+or private school? No school;Facebook;4
+or private school? Public;Facebook;117
+;;
+or private school? Private;Instagram;105
+or private school? No school;Instagram;10
+or private school? Public;Instagram;250
+;;
+or private school? Private;None;168
+or private school? No school;None;16
+or private school? Public;None;304
+;;
+or private school? Private;Snapchat;8
+or private school? No school;Snapchat;1
+or private school? Public;Snapchat;27
+;;
+or private school? Private;Twitter;20
+or private school? No school;Twitter;1
+or private school? Public;Twitter;69
+;;
+have a job? Nope,  and not looking for one;Facebook;198
+have a job? Yes, full-time;Facebook;23
+have a job? No, but I'm searching for one;Facebook;98
+have a job? Yes, part-time;Facebook;147
+;;
+have a job? Nope,  and not looking for one;Instagram;299
+have a job? Yes, full-time;Instagram;37
+have a job? No, but I'm searching for one;Instagram;168
+have a job? Yes, part-time;Instagram;239
+;;
+have a job? Nope,  and not looking for one;None;325
+have a job? Yes, full-time;None;51
+have a job? No, but I'm searching for one;None;174
+have a job? Yes, part-time;None;274
+;;
+have a job? Nope,  and not looking for one;Snapchat;37
+have a job? Yes, full-time;Snapchat;6
+have a job? No, but I'm searching for one;Snapchat;13
+have a job? Yes, part-time;Snapchat;12
+;;
+have a job? Nope,  and not looking for one;Twitter;68
+have a job? Yes, full-time;Twitter;6
+have a job? No, but I'm searching for one;Twitter;25
+have a job? Yes, part-time;Twitter;56
+;;
+student loan debt? No;Facebook;326
+student loan debt? Yes;Facebook;148
+;;
+student loan debt? No;Instagram;504
+student loan debt? Yes;Instagram;258
+;;
+student loan debt? No;None;552
+student loan debt? Yes;None;279
+;;
+student loan debt? No;Snapchat;47
+student loan debt? Yes;Snapchat;21
+;;
+student loan debt? No;Twitter;99
+student loan debt? Yes;Twitter;60
+;;
+your parents make? Upper class (> $240K);Facebook;70
+your parents make? Upper-middle class (~$160K);Facebook;71
+your parents make? Middle / lower-middle class (~$90K);Facebook;41
+your parents make? Poor (< ~$50K) ;Facebook;15
+;;
+your parents make? Upper class (> $240K);Instagram;83
+your parents make? Upper-middle class (~$160K);Instagram;149
+your parents make? Middle / lower-middle class (~$90K);Instagram;111
+your parents make? Poor (< ~$50K) ;Instagram;45
+;;
+your parents make? Upper class (> $240K);None;130
+your parents make? Upper-middle class (~$160K);None;178
+your parents make? Middle / lower-middle class (~$90K);None;144
+your parents make? Poor (< ~$50K) ;None;57
+;;
+your parents make? Upper class (> $240K);Snapchat;8
+your parents make? Upper-middle class (~$160K);Snapchat;11
+your parents make? Middle / lower-middle class (~$90K);Snapchat;12
+your parents make? Poor (< ~$50K) ;Snapchat;7
+;;
+your parents make? Upper class (> $240K);Twitter;13
+your parents make? Upper-middle class (~$160K);Twitter;42
+your parents make? Middle / lower-middle class (~$90K);Twitter;32
+your parents make? Poor (< ~$50K);Twitter;10
+;;
+I'm in? Other;Facebook;3
+I'm in? Grad School;Facebook;7
+I'm in? Post-grad;Facebook;15
+I'm in? College;Facebook;499
+I'm in? High School;Facebook;29
+;;
+I'm in? Other;Instagram;6
+I'm in? Grad School;Instagram;13
+I'm in? Post-grad;Instagram;35
+I'm in? College;Instagram;781
+I'm in? High School;Instagram;96
+;;
+I'm in? Other;None;8
+I'm in? Grad School;None;14
+I'm in? Post-grad;None;43
+I'm in? College;None;820
+I'm in? High School;None;106
+;;
+I'm in? Other;Snapchat;2
+I'm in? Grad School;Snapchat;4
+I'm in? Post-grad;Snapchat;1
+I'm in? College;Snapchat;74
+I'm in? High School;Snapchat;14
+;;
+I'm in? Other;Twitter;0
+I'm in? Grad School;Twitter;3
+I'm in? Post-grad;Twitter;1
+I'm in? College;Twitter;151
+I'm in? High School;Twitter;32
